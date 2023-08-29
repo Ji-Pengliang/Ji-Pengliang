@@ -5,7 +5,7 @@
 💼 Priorly working as research assistant at [CCVL](https://ccvl.jhu.edu/) advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). I have contributed numerous works to NeuraIPS, CVPR, and ICCV. <br />
 💡 I'm interested in Software Engineering, AI, and machine learning, particularly Computer Vision and Robotics. <br />
 🔥 Recently, I am focus on Generative AI, 3D Computer Vision, Robust Machine Learning, and Multimodal. <br />
-🔍 Google Scholar: [[link]](https://scholar.google.com/citations?user=g5XaopwAAAAJ&hl=en) <br />
+🔍 LinkedIn: [[link]](https://www.linkedin.com/in/pengliang-ji-a73300206/)        🔍 Google Scholar: [[link]](https://scholar.google.com/citations?user=g5XaopwAAAAJ&hl=en) <br />
 
 
 
@@ -111,6 +111,3 @@
 ![Tesseract](https://img.shields.io/badge/-Tesseract-%23E34F26?style=flat-square&logo=tesseract&logoColor=ffffff)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-%2376329E?style=flat-square&logo=computer-vision&logoColor=ffffff)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-%230066CC?style=flat-square&logo=natural-language-processing&logoColor=ffffff)
-
-
-
