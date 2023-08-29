@@ -2,7 +2,7 @@
 <h3 align="center">Actively Seeking 24 SDE/MLE/RS/DS Internships</h3>
 
 👨‍🎓 I'm a masters student at [CMU CS](https://www.cs.cmu.edu/), and as an undergraduate student at [UC Berkeley](https://www.berkeley.edu/). <br />
-💼 Priorly working as research assistant at [CCVL](https://ccvl.jhu.edu/) advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). I have contributed numerous works to NeuraIPS, CVPR, ICCV, and IEEE. <br />
+💼 Priorly working as research assistant at [CCVL](https://ccvl.jhu.edu/) advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). I have contributed numerous works to NeuraIPS, CVPR, and ICCV. <br />
 💡 I'm interested in Software Engineering, AI, and machine learning, particularly Computer Vision and Robotics. <br />
 🔥 Recently, I am focus on Generative AI, 3D Computer Vision, Robust Machine Learning, and Multimodal. <br />
 🔍 Google Scholar: [[link]](https://scholar.google.com/citations?user=g5XaopwAAAAJ&hl=en) <br />
